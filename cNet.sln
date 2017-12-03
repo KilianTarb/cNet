@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cNet", "cNet\cNet.csproj", "{2BAE797F-569D-401A-AE82-297EBAD7B13B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetComponents", "NetComponents\NetComponents.csproj", "{6BAA94FC-C5D4-46E1-9EE5-526EECDE5F5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpPerfChart", "..\..\..\..\Desktop\SpPerfChart\SpPerfChart.csproj", "{F2FF6C46-A791-4CAE-AB46-BD1A37F3FCD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "granados", "..\..\..\..\Desktop\Work\granados200\src\granados.csproj", "{9780D85D-2E12-4747-9E08-DEDB95A71FC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BAE797F-569D-401A-AE82-297EBAD7B13B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BAE797F-569D-401A-AE82-297EBAD7B13B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BAE797F-569D-401A-AE82-297EBAD7B13B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BAE797F-569D-401A-AE82-297EBAD7B13B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BAA94FC-C5D4-46E1-9EE5-526EECDE5F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BAA94FC-C5D4-46E1-9EE5-526EECDE5F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BAA94FC-C5D4-46E1-9EE5-526EECDE5F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BAA94FC-C5D4-46E1-9EE5-526EECDE5F5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2FF6C46-A791-4CAE-AB46-BD1A37F3FCD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FF6C46-A791-4CAE-AB46-BD1A37F3FCD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FF6C46-A791-4CAE-AB46-BD1A37F3FCD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FF6C46-A791-4CAE-AB46-BD1A37F3FCD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9780D85D-2E12-4747-9E08-DEDB95A71FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9780D85D-2E12-4747-9E08-DEDB95A71FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9780D85D-2E12-4747-9E08-DEDB95A71FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9780D85D-2E12-4747-9E08-DEDB95A71FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

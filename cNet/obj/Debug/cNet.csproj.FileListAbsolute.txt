@@ -1,0 +1,13 @@
+C:\Users\Kilian\Documents\Visual Studio 2015\Projects\cNet\cNet\bin\Debug\cNet.exe.config
+C:\Users\Kilian\Documents\Visual Studio 2015\Projects\cNet\cNet\bin\Debug\cNet.exe
+C:\Users\Kilian\Documents\Visual Studio 2015\Projects\cNet\cNet\bin\Debug\cNet.pdb
+C:\Users\Kilian\Documents\Visual Studio 2015\Projects\cNet\cNet\obj\Debug\cNet.csprojResolveAssemblyReference.cache
+C:\Users\Kilian\Documents\Visual Studio 2015\Projects\cNet\cNet\obj\Debug\cNet.Properties.Resources.resources
+C:\Users\Kilian\Documents\Visual Studio 2015\Projects\cNet\cNet\obj\Debug\cNet.csproj.GenerateResource.Cache
+C:\Users\Kilian\Documents\Visual Studio 2015\Projects\cNet\cNet\obj\Debug\cNet.exe
+C:\Users\Kilian\Documents\Visual Studio 2015\Projects\cNet\cNet\obj\Debug\cNet.pdb
+C:\Users\Kilian\Documents\Visual Studio 2015\Projects\cNet\cNet\bin\Debug\NetComponents.dll
+C:\Users\Kilian\Documents\Visual Studio 2015\Projects\cNet\cNet\bin\Debug\NetComponents.pdb
+C:\Users\Kilian\Documents\Visual Studio 2015\Projects\cNet\cNet\obj\Debug\cNet.mainForm.resources
+C:\Users\Kilian\Documents\Visual Studio 2015\Projects\cNet\cNet\bin\Debug\SpPerfChart.dll
+C:\Users\Kilian\Documents\Visual Studio 2015\Projects\cNet\cNet\bin\Debug\SpPerfChart.pdb
